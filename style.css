@@ -9,13 +9,13 @@
     display: block;
 }
 
-a{
+.Main{
     text-decoration: none;
     color: bisque;
     padding: 20px;
 }
 
-a:hover{
+.Main:hover{
     color: black;
     background-color: bisque;
 }
@@ -25,9 +25,18 @@ a:hover{
     font-size: 25px;
 }
 
+.text-link{
+    text-decoration: none;
+    color: tomato;
+}
+
+.text-link:hover{
+    color: rgb(114, 35, 21);
+}
+
 p{
     text-align: center;
-    font-size: 17px;
+    font-size: 22px;
 }
 
 body{
